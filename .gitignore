@@ -1,5 +1,14 @@
-/bin
-/target/
-/.classpath
-/.project
-/.settings/
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Maven
+target/
+gen/
+bin/
+out/
+
+# IDEA
+.idea/
+*.iml
