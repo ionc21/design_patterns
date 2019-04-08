@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 class NullObjectChainHandler extends AbstractChainHandler {
 
-	private static ChainHandler INSTANCE = null;
+	private static volatile ChainHandler INSTANCE = null;
 
 	private NullObjectChainHandler() {
 		// TODO Auto-generated constructor stub
