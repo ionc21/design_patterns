@@ -1,4 +1,4 @@
-package com.pluralsight.visitor;
+package visitor;
 
 public class Wheel implements AtvPart {
 	@Override

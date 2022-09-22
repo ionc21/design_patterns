@@ -1,4 +1,4 @@
-package com.pluralsight.memento;
+package memento;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

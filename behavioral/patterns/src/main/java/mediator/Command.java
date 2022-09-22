@@ -1,4 +1,4 @@
-package com.pluralsight.mediator;
+package mediator;
 
 //colleague
 public interface Command {

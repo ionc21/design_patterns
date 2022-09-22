@@ -1,4 +1,4 @@
-package com.pluralsight.memento;
+package memento;
 
 //memento
 public class EmployeeMemento {

@@ -8,10 +8,10 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.structural</groupId>
-	<artifactId>com.structural</artifactId>
+	<groupId>structural-patterns</groupId>
+	<artifactId>structural</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>structural</name>
+	<name>structural-patterns</name>
 	<description>Structural design patterns</description>
 
 	<properties>
@@ -27,6 +27,7 @@
 		<dependency>
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
+			<version>10.15.2.0</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>

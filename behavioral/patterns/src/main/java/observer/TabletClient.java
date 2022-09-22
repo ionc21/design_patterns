@@ -1,4 +1,4 @@
-package com.pluralsight.observer;
+package observer;
 
 public class TabletClient extends Observer {
 

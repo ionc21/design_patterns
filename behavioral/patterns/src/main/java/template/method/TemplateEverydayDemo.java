@@ -1,4 +1,4 @@
-package com.template.method;
+package template.method;
 
 import java.util.ArrayList;
 import java.util.Collections;

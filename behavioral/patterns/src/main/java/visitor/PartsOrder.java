@@ -1,4 +1,4 @@
-package com.pluralsight.visitor;
+package visitor;
 
 import java.util.ArrayList;
 import java.util.Collections;

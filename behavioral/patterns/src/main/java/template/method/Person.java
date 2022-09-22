@@ -1,4 +1,4 @@
-package com.template.method;
+package template.method;
 
 public class Person implements Comparable<Person> {
 

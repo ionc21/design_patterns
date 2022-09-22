@@ -1,4 +1,4 @@
-package com.pluralsight.abstractfactory;
+package com.structural.abstractfactory;
 
 public class VisaFactory extends CreditCardFactory {
 

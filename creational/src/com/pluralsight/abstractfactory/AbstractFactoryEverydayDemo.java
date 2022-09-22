@@ -1,4 +1,4 @@
-package com.pluralsight.abstractfactory;
+package com.structural.abstractfactory;
 
 import java.io.ByteArrayInputStream;
 

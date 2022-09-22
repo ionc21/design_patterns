@@ -1,4 +1,4 @@
-package com.pluralsight.observer;
+package observer;
 
 public abstract class Observer {
 	protected Subject subject;

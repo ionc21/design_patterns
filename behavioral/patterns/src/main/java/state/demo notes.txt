@@ -1,4 +1,4 @@
-package com.pluralsight.state;
+package com.structural.state;
 
 public class GarageDoor {
 
@@ -44,7 +44,7 @@ public class GarageDoor {
 
 ///////////////////////////////////////////////////////////////
 
-package com.pluralsight.state;
+package com.structural.state;
 
 public class StateDemo {
 

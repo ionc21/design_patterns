@@ -1,4 +1,4 @@
-package com.pluralsight.memento;
+package memento;
 
 public class MementoDemo {
 

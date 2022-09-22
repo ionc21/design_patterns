@@ -1,4 +1,4 @@
-package com.pluralsight.mediator;
+package mediator;
 
 //receiver
 public class Light {

@@ -1,10 +1,10 @@
-package com.pluralsight.strategy;
+package strategy;
 
 public class AmexStrategy extends ValidationStrategy {
 
 	@Override
 	public boolean isValid(CreditCard creditCard) {
-		boolean isValid = true;
+		boolean isValid;
 		
 		isValid = creditCard.getNumber().startsWith("37") ||
 				creditCard.getNumber().startsWith("34");

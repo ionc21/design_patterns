@@ -1,4 +1,4 @@
-package com.pluralsight.factory;
+package com.structural.factory;
 
 public enum WebsiteType {
 

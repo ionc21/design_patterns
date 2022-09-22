@@ -1,4 +1,4 @@
-package com.pluralsight.builder;
+package com.structural.builder;
 
 public class LunchOrderBean {
 

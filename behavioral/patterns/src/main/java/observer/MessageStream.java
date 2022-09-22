@@ -1,4 +1,4 @@
-package com.pluralsight.observer;
+package observer;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

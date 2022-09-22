@@ -1,4 +1,4 @@
-package com.pluralsight.state;
+package state;
 
 public class FanLowState extends State {
 
